@@ -1,16 +1,97 @@
-### Hi there 👋
+<center>
+<img src = "https://i.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.webp" width="50px"> 
+<h2>Hi there, I'm 
+<a href = "https://github.com/GregorioNeto"> Gregório</a> ! </h2>
 
-<!--
-**GregorioNeto/GregorioNeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</center>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+<br>
+
+<center>
+<h2>Languages and Tools: </h2>
+</center><br>
+
+<code>
+<center>
+<a href="https://www.arduino.cc/">
+    <img width="45px" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" />
+</a>
+
+<a href="https://beagleboard.org/bone">
+    <img  width="35px" src="https://www.pinclipart.com/picdir/big/555-5559579_beaglebone-beagleboard-org-logo-clipart.png" />
+</a>
+
+<a href="https://www.learn-c.org/">
+    <img  width="50px" src="https://images-ext-2.discordapp.net/external/AoptxKavQTqxmap0_la-1ydZEAUNPvBry3ULYBig4Vs/https/cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
+</a>
+
+<a href="https://www.learncpp.com/">
+    <img  width="50px" src="https://images-ext-1.discordapp.net/external/yQO4PyPmTHQIueL-A3hXd3_URhgYbCQNbmQNy3yS8XI/https/images-na.ssl-images-amazon.com/images/I/51NyeIYt71L.png" />
+</a>
+
+<a href="https://www.java.com/pt-BR/">
+     <img    src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" width = "40"/> 
+</a>
+<a href="https://www.python.org/">
+     <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" width = "40"/>
+</a>
+<a href="https://git-scm.com">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" width = "40"/> 
+</a>
+<a href="https://nodejs.org/en/"> 
+    <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1-1174935.png" width = "40"/> </a>
+<a href="https://www.codecademy.com/learn/learn-html"> 
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" width = "40"/>
+</a>
+<a href="https://www.postgresql.org"> 
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_logo_icon_170835.png" width = "40"/> 
+</a>
+<a href="https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/"> 
+    <img src="https://www.freepnglogos.com/uploads/linux-png/file-icons-flat-linux-svg-wikimedia-commons-6.png" width = "50"/> 
+</a>
+
+<a href="https://developer.android.com/studio"> 
+    <img src="https://logodownload.org/wp-content/uploads/2015/05/android-logo-5-1.png" width = "40"/> 
+</a>
+
+<a href="https://www.asm-smt.com/en/"> 
+    <img src="https://images-ext-1.discordapp.net/external/H7-IGnW58MToNVzgqtQhajuIoe3TGfd-mFwAPoioaxk/http/www.byteanalysis.com.br/assets/images/25a85d9e5057430d82273a3c75e73014.png?width=680&height=676" width = "45"/> 
+</a>
+
+<a href="https://www.overleaf.com/project"> 
+    <img src="https://images.ctfassets.net/nrgyaltdicpt/6qSXAo1CYEeBn5RkKLOR64/19c74bfb9a32772e353ff25c6f0070f5/ologo_square_colour_light_bg.png" width = "45"/> 
+</a>
+
+<a href="https://code.visualstudio.com"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width = "40"/> 
+</a>
+</center>
+</code>
+<br><br>
+
+<center>
+    <img src ="https://github-readme-stats.vercel.app/api?username=gregorioneto&show_icons=true&title_color=25e9e9&icon_color=25e9e9&text_color=9f9f9f&bg_color=151515" />
+    <br><br>
+    <img src ="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=gregorioneto&layout=compact&show_icons=true&title_color=25e9e9&icon_color=25cce9&text_color=9f9f9f&bg_color=151515" />
+</center><br><br>
+
+<center>
+<h2>Social Media:</h2>
+</center><br><br>
+
+<center>
+ <a href="https://instagram.com/alexandresanlim">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+</a>&nbsp;&nbsp;
+
+ <a href="https://www.facebook.com/gregorio.neto.75/">
+    <img src="https://img.shields.io/badge/facebook -%2300007F.svg?&style=for-the-badge&logo=facebook&logoColor=white" />        
+</a>&nbsp;&nbsp;
+
+ <a href="https://mail.google.com/mail/u/0/?fs=1&to=g_neto01@alu.ufc.br&tf=cm">
+    <img src="https://img.shields.io/badge/gmail -%23E4402F.svg?&style=for-the-badge&logo=gmail&logoColor=white" />        
+</a>&nbsp;&nbsp;
+</center>
+<br><hr>
