@@ -77,7 +77,7 @@
 </center><br><br>
 
 <center>
- <a href="https://instagram.com/alexandresanlim">
+ <a href="https://instagram.com/g_neto01">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
 </a>&nbsp;&nbsp;
 
