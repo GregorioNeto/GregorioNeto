@@ -1,15 +1,13 @@
 <div align='center'>
-<img src = "https://i.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.webp" width="50px" align='center'> 
+<img src = "https://i.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.webp" width="50px"> 
 <h2>Hi there, I'm 
 <a href = "https://github.com/GregorioNeto"> Gregório</a> ! </h2>
 <br>
 
-<center>
 <h3>Languages and Tools: </h3>
-</center><br>
+<br>
 
 <code>
-<center>
 <a href="https://www.arduino.cc/">
     <img width="45px" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" />
 </a>
@@ -25,7 +23,6 @@
 <a href="https://www.learncpp.com/">
     <img  width="50px" src="https://images-ext-1.discordapp.net/external/yQO4PyPmTHQIueL-A3hXd3_URhgYbCQNbmQNy3yS8XI/https/images-na.ssl-images-amazon.com/images/I/51NyeIYt71L.png" />
 </a>
-
 <a href="https://www.java.com/pt-BR/">
      <img    src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" width = "40"/> 
 </a>
@@ -62,21 +59,17 @@
 <a href="https://code.visualstudio.com"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width = "40"/> 
 </a>
-</center>
 </code>
 <br><br>
 
-<center>
-    <img src ="https://github-readme-stats.vercel.app/api?username=gregorioneto&show_icons=true&title_color=25e9e9&icon_color=25e9e9&text_color=9f9f9f&bg_color=151515" />
-    <br><br>
-    <img src ="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=gregorioneto&layout=compact&show_icons=true&title_color=25e9e9&icon_color=25cce9&text_color=9f9f9f&bg_color=151515" />
-</center><br><br>
+<img src ="https://github-readme-stats.vercel.app/api?username=gregorioneto&show_icons=true&title_color=25e9e9&icon_color=25e9e9&text_color=9f9f9f&bg_color=151515" />
+<br><br>
+<img src ="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=gregorioneto&layout=compact&show_icons=true&title_color=25e9e9&icon_color=25cce9&text_color=9f9f9f&bg_color=151515" />
+<br><br>
 
-<center>
 <h3>Social Media:</h3>
-</center><br><br>
+<br><br>
 
-<center>
  <a href="https://instagram.com/g_neto01">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
 </a>&nbsp;&nbsp;
@@ -88,6 +81,5 @@
  <a href="https://mail.google.com/mail/u/0/?fs=1&to=g_neto01@alu.ufc.br&tf=cm">
     <img src="https://img.shields.io/badge/gmail -%23E4402F.svg?&style=for-the-badge&logo=gmail&logoColor=white" />        
 </a>&nbsp;&nbsp;
-</center>
 <br><hr>
 </div>
