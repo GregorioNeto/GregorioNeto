@@ -1,16 +1,11 @@
-<center>
-<img src = "https://i.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.webp" width="50px"> 
+<div align='center'>
+<img src = "https://i.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.webp" width="50px" align='center'> 
 <h2>Hi there, I'm 
 <a href = "https://github.com/GregorioNeto"> Gregório</a> ! </h2>
-
-</center>
-
-
-<hr>
 <br>
 
 <center>
-<h2>Languages and Tools: </h2>
+<h3>Languages and Tools: </h3>
 </center><br>
 
 <code>
@@ -78,7 +73,7 @@
 </center><br><br>
 
 <center>
-<h2>Social Media:</h2>
+<h3>Social Media:</h3>
 </center><br><br>
 
 <center>
@@ -95,3 +90,4 @@
 </a>&nbsp;&nbsp;
 </center>
 <br><hr>
+</div>
