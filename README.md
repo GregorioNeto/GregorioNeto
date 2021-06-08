@@ -81,5 +81,9 @@
  <a href="https://mail.google.com/mail/u/0/?fs=1&to=g_neto01@alu.ufc.br&tf=cm">
     <img src="https://img.shields.io/badge/gmail -%23E4402F.svg?&style=for-the-badge&logo=gmail&logoColor=white" />        
 </a>&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/gregório-neto-a56039214/">
+    <img src="https://img.shields.io/badge/likedin -%2300899F.svg?&style=for-the-badge&logo=likedin&logoColor=white" />        
+</a>&nbsp;&nbsp;
 <br><hr>
 </div>
