@@ -78,10 +78,6 @@
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
 </a>&nbsp;&nbsp;
 
- <a href="https://www.facebook.com/gregorio.neto.75/">
-    <img src="https://img.shields.io/badge/facebook -%2300007F.svg?&style=for-the-badge&logo=facebook&logoColor=white" />        
-</a>&nbsp;&nbsp;
-
  <a href="https://mail.google.com/mail/u/0/?fs=1&to=g_neto01@alu.ufc.br&tf=cm">
     <img src="https://img.shields.io/badge/gmail -%23E4402F.svg?&style=for-the-badge&logo=gmail&logoColor=white" />        
 </a>&nbsp;&nbsp;
