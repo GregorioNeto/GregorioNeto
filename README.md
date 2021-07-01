@@ -66,9 +66,13 @@
 </code>
 <br><br>
 
-<img src ="https://github-readme-stats.vercel.app/api?username=gregorioneto&show_icons=true&title_color=25e9e9&icon_color=25e9e9&text_color=9f9f9f&bg_color=151515" />
-<br><br>
-<img src ="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=gregorioneto&layout=compact&show_icons=true&title_color=25e9e9&icon_color=25cce9&text_color=9f9f9f&bg_color=151515" />
+<div>
+    <img height="180em" src ="https://github-readme-stats.vercel.app/api?username=gregorioneto&show_icons=true&title_color=25e9e9&icon_color=25e9e9&text_color=9f9f9f&bg_color=151515"     />
+    <img height="180em" src ="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=gregorioneto&layout=compact&show_icons=true&title_color=25e9e9&icon_color=25cce9&text_color=9f9f9f&bg_color=151515&langs_count=16" />
+</div>
+     
+
+
 <br><br>
 
 <h3>Social Media:</h3>
@@ -82,8 +86,9 @@
     <img src="https://img.shields.io/badge/gmail -%23E4402F.svg?&style=for-the-badge&logo=gmail&logoColor=white" />        
 </a>&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/gregório-neto-a56039214/">
-    <img src="https://img.shields.io/badge/likedin -%2300899F.svg?&style=for-the-badge&logo=likedin&logoColor=white" />        
+<a href="https://www.linkedin.com/in/gregório-neto-a56039214/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>&nbsp;&nbsp;
+    
 <br><hr>
 </div>
