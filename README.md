@@ -63,9 +63,12 @@
 <a href="https://code.visualstudio.com"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width = "40"/> 
 </a>
+<a href="https://guides.rubyonrails.org"/> 
+    <img src="https://www.altoroslabs.com/assets/images/img/s-header-logo-ruby.png" width = "60"/> 
+</a>
 </code>
 <br><br>
-
+    
 <div>
     <img height="180em" src ="https://github-readme-stats.vercel.app/api?username=gregorioneto&show_icons=true&title_color=25e9e9&icon_color=25e9e9&text_color=9f9f9f&bg_color=151515"     />
     <img height="180em" src ="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=gregorioneto&layout=compact&show_icons=true&title_color=25e9e9&icon_color=25cce9&text_color=9f9f9f&bg_color=151515&langs_count=16" />
