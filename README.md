@@ -7,22 +7,16 @@
 <h3>Languages and Tools: </h3>
 <br>
 
-<code>
-<div>
   <a href="https://www.arduino.cc/">
-    <img width="45px" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" />
+    <img width="40px" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" />
   </a>
-
-  <a href="https://beagleboard.org/bone">
-    <img width="35px" src="https://www.pinclipart.com/picdir/big/555-5559579_beaglebone-beagleboard-org-logo-clipart.png" />
-  </a>
-
+  
   <a href="https://www.learn-c.org/">
-    <img width="50px" src="https://images-ext-2.discordapp.net/external/AoptxKavQTqxmap0_la1ydZEAUNPvBry3ULYBig4Vs/https/cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
+    <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png">
   </a>
 
   <a href="https://www.learncpp.com/">
-    <img width="50px" src="https://images-ext-1.discordapp.net/external/yQO4PyPmTHQIueL-A3hXd3_URhgYbCQNbmQNy3yS8XI/https/images-na.ssl-imagesamazon.com/images/I/51NyeIYt71L.png" />
+    <img width="45px" src="https://images.vexels.com/media/users/3/166253/isolated/preview/14bc03b7b1c2c4e2656fd4c0a981cbbc-icone-da-linguagem-de-programacao-cpp.png"/>
   </a>
 
   <a href="https://www.java.com/pt-BR/">
@@ -66,7 +60,7 @@
   </a>
 
   <a href="https://www.w3schools.com/css/">
-    <img src="https://www.pngix.com/pngfile/big/193-1937198_image-result-for-css3-icon-css-logo-transparent.png" width="45" />
+    <img src="https://logospng.org/download/css-3/logo-css-3-512.png" width="45" />
   </a>
 
   <a href="https://code.visualstudio.com">
@@ -76,17 +70,11 @@
   <a href="https://guides.rubyonrails.org">
     <img src="https://www.altoroslabs.com/assets/images/img/s-header-logo-ruby.png" width="60" />
   </a>
-</div>
-</code>
 <br><br>
-    
 <div>
     <img height="180em" src ="https://github-readme-stats.vercel.app/api?username=gregorioneto&show_icons=true&title_color=25e9e9&icon_color=25e9e9&text_color=9f9f9f&bg_color=151515"     />
     <img height="180em" src ="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=gregorioneto&layout=compact&show_icons=true&title_color=25e9e9&icon_color=25cce9&text_color=9f9f9f&bg_color=151515&langs_count=16" />
 </div>
-     
-
-
 <br><br>
 
 <h3>Social Media:</h3>
