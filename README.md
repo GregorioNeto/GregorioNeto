@@ -14,40 +14,43 @@
   </a>
 
   <a href="https://beagleboard.org/bone">
-    <img width="35px"
-      src="https://www.pinclipart.com/picdir/big/555-5559579_beaglebone-beagleboard-org-logo-clipart.png" />
+    <img width="35px" src="https://www.pinclipart.com/picdir/big/555-5559579_beaglebone-beagleboard-org-logo-clipart.png" />
   </a>
 
   <a href="https://www.learn-c.org/">
-    <img width="50px"
-      src="https://images-ext-2.discordapp.net/external/AoptxKavQTqxmap0_la1ydZEAUNPvBry3ULYBig4Vs/https/cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
+    <img width="50px" src="https://images-ext-2.discordapp.net/external/AoptxKavQTqxmap0_la1ydZEAUNPvBry3ULYBig4Vs/https/cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
   </a>
 
   <a href="https://www.learncpp.com/">
-    <img width="50px"
-      src="https://images-ext-1.discordapp.net/external/yQO4PyPmTHQIueL-A3hXd3_URhgYbCQNbmQNy3yS8XI/https/images-na.ssl-imagesamazon.com/images/I/51NyeIYt71L.png" />
+    <img width="50px" src="https://images-ext-1.discordapp.net/external/yQO4PyPmTHQIueL-A3hXd3_URhgYbCQNbmQNy3yS8XI/https/images-na.ssl-imagesamazon.com/images/I/51NyeIYt71L.png" />
   </a>
+
   <a href="https://www.java.com/pt-BR/">
     <img src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" width="40" />
   </a>
+
   <a href="https://www.python.org/">
     <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" width="40" />
   </a>
+
   <a href="https://git-scm.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"
-      width="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" width="40" />
   </a>
+
   <a href="https://nodejs.org/en/">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1-1174935.png" width="40" /> </a>
+    <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1-1174935.png" width="40" />
+  </a>
+
   <a href="https://www.codecademy.com/learn/learn-html">
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" width="40" />
   </a>
+
   <a href="https://www.postgresql.org">
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_logo_icon_170835.png" width="40" />
   </a>
+
   <a href="https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/">
-    <img src="https://www.freepnglogos.com/uploads/linux-png/file-icons-flat-linux-svg-wikimedia-commons-6.png"
-      width="50" />
+    <img src="https://www.freepnglogos.com/uploads/linux-png/file-icons-flat-linux-svg-wikimedia-commons-6.png" width="50" />
   </a>
 
   <a href="https://developer.android.com/studio">
@@ -69,7 +72,8 @@
   <a href="https://code.visualstudio.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="40" />
   </a>
-  <a href="https://guides.rubyonrails.org" />
+
+  <a href="https://guides.rubyonrails.org">
     <img src="https://www.altoroslabs.com/assets/images/img/s-header-logo-ruby.png" width="60" />
   </a>
 </div>
