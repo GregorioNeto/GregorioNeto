@@ -51,10 +51,6 @@
     <img src="https://logodownload.org/wp-content/uploads/2015/05/android-logo-5-1.png" width="40" />
   </a>
 
-  <a href="https://www.asm-smt.com/en/">
-    <img src="https://images-ext-1.discordapp.net/external/H7-IGnW58MToNVzgqtQhajuIoe3TGfd-mFwAPoioaxk/http/www.byteanalysis.com.br/assets/images/25a85d9e5057430d82273a3c75e73014.png?width=680&height=676" width="45" />
-  </a>
-
   <a href="https://www.overleaf.com/project">
     <img src="https://images.ctfassets.net/nrgyaltdicpt/6qSXAo1CYEeBn5RkKLOR64/19c74bfb9a32772e353ff25c6f0070f5/ologo_square_colour_light_bg.png" width="45" />
   </a>
